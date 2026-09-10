@@ -1,6 +1,6 @@
 # MTK-SuperBuilder
 
-MTK-SuperBuilder is a standalone Python CLI utility for building and unpacking Android Dynamic Partition `super.img` files using OEM `super_def.json` layouts.
+MTK-SuperBuilder is a standalone Python CLI tool for building and unpacking Android Dynamic Partition `super.img` files using OEM `super_def.json` layouts.
 
 The tool automatically generates the required `lpmake` arguments from the provided configuration and partition images, allowing firmware layouts to be rebuilt without manually constructing complex commands.
 
